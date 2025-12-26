@@ -133,7 +133,3 @@ The assessment follows a structured penetration testing workflow:
 - SMB exploitation using Metasploit
 - Legacy protocol exposure
 - Insufficient network segmentation
-
-## Exploitation Examples
-
-### SMB Vulnerability (Windows Server 2012)
