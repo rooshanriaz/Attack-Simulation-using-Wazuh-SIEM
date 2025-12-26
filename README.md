@@ -13,7 +13,7 @@ The lab environment consists of four virtual machines within a controlled networ
 
 All systems are assigned static IP addresses within a shared virtual network, with Wazuh agents deployed on both target servers for log collection and security monitoring.
 
-```<p align="center"> <img src="VA-Architecture.jpg" alt="Architecture Diagram" width="800"/> </p> ```
+![Architecture Diagram](./VA-Architecture.jpg)
 
 ## Environment Setup
 
