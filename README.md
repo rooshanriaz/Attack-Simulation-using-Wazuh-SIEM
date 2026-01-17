@@ -2,7 +2,7 @@
 
 This project demonstrates a comprehensive vulnerability assessment performed on a simulated enterprise environment using industry-standard penetration testing tools and methodologies. The assessment identifies security weaknesses across web applications, operating systems, and network services, while implementing real-time monitoring through a centralized SIEM solution.
 
-![GitHub](https://img.shields.io/badge/Tools-Wazuh%2C%20Metasploit%2C%20%20Imager-orange) 
+![GitHub](https://img.shields.io/badge/Tools-Wazuh%2C%20Metasploit%2C%20%20-orange) 
 
 ## Architecture
 
