@@ -2,7 +2,11 @@
 
 This project demonstrates a comprehensive vulnerability assessment performed on a simulated enterprise environment using industry-standard penetration testing tools and methodologies. The assessment identifies security weaknesses across web applications, operating systems, and network services, while implementing real-time monitoring through a centralized SIEM solution.
 
-![GitHub](https://img.shields.io/badge/Tools-Wazuh%2C%20Metasploit%2C%NMap%2C%OpenVas%2C%Nessus20%20-orange) 
+[![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat&logo=wazuh&logoColor=white)](https://wazuh.com/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-0078D4?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+[![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-569D31?style=flat&logo=openvas&logoColor=white)](https://www.openvas.org/)
+[![Nessus](https://img.shields.io/badge/Nessus-00C4B4?style=flat&logo=nessus&logoColor=white)](https://www.tenable.com/products/nessus)
 
 ## Architecture
 
